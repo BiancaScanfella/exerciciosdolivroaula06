@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\bin\Debug\Aula06ExerciciosSerasa.exe.config
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\bin\Debug\Aula06ExerciciosSerasa.exe
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\bin\Debug\Aula06ExerciciosSerasa.pdb
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\obj\Debug\Aula06ExerciciosSerasa.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\obj\Debug\Aula06ExerciciosSerasa.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\obj\Debug\Aula06ExerciciosSerasa.exe
+C:\Users\bianca.ascanfella\source\repos\Aula06ExerciciosSerasa\Aula06ExerciciosSerasa\obj\Debug\Aula06ExerciciosSerasa.pdb
